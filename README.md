@@ -1,0 +1,1 @@
+# wechat-merchant-bkg-scripts
